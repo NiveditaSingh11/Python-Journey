@@ -14,7 +14,6 @@ finally :
     print("Program ends here with confidential information.")
 
 
-
 try :
    mynum = int("hello")
    print (mynum)
@@ -31,6 +30,5 @@ except ZeroDivisionError:
 
 finally :
     print("Program ends here with confidential information.")
-    
 
 
